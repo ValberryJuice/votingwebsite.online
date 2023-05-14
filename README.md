@@ -11,5 +11,5 @@ has below features:
 7) Modifying the users from admin login
 
 The website uses PHP, HTML, CSS, SQL technologies. The website can be accessed using 
-on https://votingwebsite.online/admin/ and https://votingwebsite.online/login.php. 
+on https://votingwebsite.online/admin/login.php and https://votingwebsite.online/login.php. 
 
